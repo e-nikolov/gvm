@@ -1,7 +1,7 @@
 unset GOROOT
 unset GOARCH
 unset GOOS
-unset GOPATH
+#unset GOPATH
 unset GOBIN
 
 unset gvm_go_name
