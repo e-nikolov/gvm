@@ -26,9 +26,13 @@ Installing
 
 To install:
 
-    bash < <(curl -s -S -L https://raw.githubusercontent.com/e-nikolov/gvm/master/binscripts/gvm-installer)
+Bash:
 
-Or if you are using zsh just change `bash` with `zsh`
+    bash < <(curl -s -S -L https://raw.githubusercontent.com/e-nikolov/gvm/master/binscripts/gvm-installer)
+    
+Zsh:    
+
+    zsh < <(curl -s -S -L https://raw.githubusercontent.com/e-nikolov/gvm/master/binscripts/gvm-installer)
 
 Installing Go
 =============
